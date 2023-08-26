@@ -51,4 +51,11 @@ Si deseas convertir el número `101.101` de base 2 a base 10:
 
 Haz clic en "Convertir" y obtendrás el resultado `5.625`.
 
+# Programa realizado por:
+### Arroyo Llanes Miguel Alejandro
+### Becerril Vélez Liliana Marlene
+### Flores Chávez Marcos Gabriel
+### Salgado Miranda Jorge
+
+
 
