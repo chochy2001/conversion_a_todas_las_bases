@@ -1,3 +1,11 @@
+# Programa realizado por:
+# Arroyo Llanes Miguel Alejandro
+# Becerril Vélez Liliana Marlene
+# Salgado Miranda Jorge
+# Flores Chávez Marcos Gabriel
+
+
+
 # Importamos la biblioteca tkinter para la interfaz gráfica
 import tkinter as tk
 
